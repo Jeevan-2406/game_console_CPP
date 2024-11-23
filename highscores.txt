@@ -1,0 +1,6 @@
+jeevan 230 Easy 1
+jeevan 200 Medium 0
+karthik 30 Hard 0
+j 0 Medium 1
+k 0 Medium 1
+vinod 0 Hard 1
